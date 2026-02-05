@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "description": "New Keyboard",
+        "amount": 120.0,
+        "date": "2026-02-05 15:14:24"
+    },
+    {
+        "id": 2,
+        "description": "Pizza",
+        "amount": 15.75,
+        "date": "2026-02-05 15:14:38"
+    },
+    {
+        "id": 3,
+        "description": "Diapers",
+        "amount": 24.0,
+        "date": "2026-02-05 15:15:13"
+    }
+]
